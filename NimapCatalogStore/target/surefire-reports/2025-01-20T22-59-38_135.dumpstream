@@ -1,0 +1,5 @@
+# Created at 2025-01-20T22:59:39.831
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Restful web service\NimapCatalogStore\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
