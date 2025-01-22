@@ -21,7 +21,7 @@ public class CategoryController {
 
     @Autowired
     private CategoryServiceI csi;
-
+// this is 
     @PostMapping
     public Category createCategory(@RequestBody Category category) {
         return csi.saveCategory(category); // Saving a new category
